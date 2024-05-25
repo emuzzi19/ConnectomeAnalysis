@@ -34,14 +34,14 @@ The dataset includes various metrics and measures related to neural connectivity
 
 The analysis includes several key questions and techniques:
 
-    How do connectivity patterns change across different brain regions?
-        Descriptive statistics and visualization of connectivity metrics.
+How do connectivity patterns change across different brain regions?
+- Descriptive statistics and visualization of connectivity metrics.
 
-    Can we identify distinct neural modules within the connectome?
-        Community detection and modularity analysis.
+Can we identify distinct neural modules within the connectome?
+- Community detection and modularity analysis.
 
-    What is the impact of specific neural connections on overall brain function?
-        Correlation and regression analysis.
+What is the impact of specific neural connections on overall brain function?
+- Correlation and regression analysis.
 
 ## Results
 Descriptive Statistics
