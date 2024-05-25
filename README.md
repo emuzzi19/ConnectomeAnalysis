@@ -40,9 +40,10 @@ The Connectome Analysis project involves the analysis of neural connectivity dat
 
 ## Project Structure
 
-    ConnectomeAnalysis.html: Jupyter notebooks used for exploratory data analysis.
-    ConnectomeReport.html: Visulaization and Analysis of netowrk
-    README.md: This README file.
+- ConnectomeAnalysis.html: Jupyter notebooks used for exploratory data analysis.
+- ConnectomeReport.html: Visulaization and Analysis of netowrk
+- README.md: This README file.
+  
 ## Data
 
 The dataset includes various metrics and measures related to neural connectivity. Examples of the data fields include:
