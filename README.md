@@ -14,29 +14,6 @@ This project is a visualizationa and analysis of the Drosophila Optic Medulla, l
 - [Discussion](#discussion)
 - [References](#references)
 
-Based on the provided ConnectomeAnalysis.html document, here is a draft for your README file for the Connectome Analysis project:
-
-markdown
-
-# Connectome Analysis
-
-## Introduction
-
-The Connectome Analysis project involves the analysis of neural connectivity data. The goal is to understand the structural and functional aspects of neural networks through various analytical techniques. This project uses data from connectome studies to explore different characteristics of neural connections and their implications.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Data](#data)
-- [Analysis](#analysis)
-- [Results](#results)
-- [Discussion](#discussion)
-- [References](#references)
-
-
 
 ## Project Structure
 
