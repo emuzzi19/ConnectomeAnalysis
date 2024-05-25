@@ -1,4 +1,4 @@
-# Descriptive Network Analysis
+# Connectome Analysis
 
 ## Introduction
 
